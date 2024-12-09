@@ -1,0 +1,19 @@
+<svg width="280" height="214" viewBox="0 0 280 214" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="45" width="192.124" height="131" rx="32" fill="#ED323D"/>
+<g filter="url(#filter0_b_2536_8010)">
+<path d="M0 81C0 63.3269 14.3269 49 32 49H248C265.673 49 280 63.3269 280 81V145C280 162.673 265.673 177 248 177H194.962C187.248 177 179.794 179.786 173.971 184.846L150.029 205.654C144.206 210.714 136.752 213.5 129.038 213.5H63.75C53.6708 213.5 45.5 205.329 45.5 195.25V195.25C45.5 185.171 37.3292 177 27.25 177H22.75C10.1855 177 0 166.814 0 154.25V81Z" fill="#1767DB"/>
+<path d="M32 52H248C264.016 52 277 64.9837 277 81V145C277 161.016 264.016 174 248 174H194.962C186.525 174 178.372 177.048 172.003 182.582L148.061 203.389C142.784 207.975 136.029 210.5 129.038 210.5H63.75C55.3277 210.5 48.5 203.672 48.5 195.25C48.5 183.514 38.986 174 27.25 174H22.75C11.8424 174 3 165.158 3 154.25V81C3 64.9837 15.9837 52 32 52Z" stroke="black" stroke-width="6"/>
+</g>
+<ellipse cx="125.5" cy="187" rx="8.5" ry="8" transform="rotate(-180 125.5 187)" fill="#ED323D"/>
+<rect x="111" y="195" width="35" height="16" rx="8" transform="rotate(-180 111 195)" fill="#2EB335"/>
+<rect x="26" y="68" width="229" height="76" rx="38" fill="#2EB335"/>
+<rect x="26" y="68" width="229" height="76" rx="38" stroke="black" stroke-width="4"/>
+<defs>
+<filter id="filter0_b_2536_8010" x="-32" y="17" width="344" height="228.5" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feGaussianBlur in="BackgroundImageFix" stdDeviation="16"/>
+<feComposite in2="SourceAlpha" operator="in" result="effect1_backgroundBlur_2536_8010"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_backgroundBlur_2536_8010" result="shape"/>
+</filter>
+</defs>
+</svg>
